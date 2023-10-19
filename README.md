@@ -1,8 +1,8 @@
 # Olá! Sou o Leonardo Cunha 
 
-Programador apaixonado por aprender as mais diversas tecnologias, muitas por hobbie e diversão, outras por trabalho hahaha.
-• Desenvolvimento Back End 
-• Spring - Golang - Python
+Programador apaixonado por aprender as mais diversas tecnologias, muitas por hobbie e diversão, outras por trabalho hahaha. \
+• Desenvolvimento Back End \
+• Spring - Golang - Python \
 • Desenvolvimento Front? Me divirto.
 
 <div style="display: inline_block"><br>
